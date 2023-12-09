@@ -10,6 +10,10 @@ Authors: Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, ERIK MEIJER
 
 (Github Link)[https://github.com/kach/gradient-descent-the-ultimate-optimizer]
 
+# How to run our code:
+
+1. Download ipynb files - (sgd_on_streiods.ipynb to run our custom SGD, extending_datasets.ipynb to view results of original gdtuo against the CIFAR-100 and Iris datatsets)
+3. Run it on Colab or local environment in VS Code
 # Optimized Optimizer: Unveiling the Power of Gradient Descent 
 
 This research extends gradient descent optimization by recursively stacking hyperparameters, inspired by Chandra et al. (2022). Our approach, implemented in PyTorch, demonstrates enhanced convergence, generalization, and adaptability across diverse datasets. Find the code at [GitHub](https://github.com/dghosh2/gdtuo-extension).
