@@ -1,3 +1,8 @@
+# A fork of my work with @oshinde1 
+
+-----
+
+
 # Optimized Optimizer: Unveiling the Power of Gradient Descent 
 
 ### Original Paper
